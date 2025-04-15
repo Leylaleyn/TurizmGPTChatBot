@@ -1,0 +1,20 @@
+Pydantic, Python'da veri doğrulama ve veri yapılandırma (data validation & parsing) için kullanılan güçlü bir kütüphanedir.
+Genellikle FastAPI, LangChain, SQLModel gibi modern Python framework'lerinde sıkça kullanılır.
+
+🚀 Pydantic Ne İşe Yarar?
+* Gelen verilerin doğru tipte ve formatta olduğunu otomatik kontrol eder
+* dict, JSON, form gibi yapıları Python class’larına otomatik çevirir
+* Varsayılan değer, hata yönetimi, iç içe modeller gibi işleri çok kolaylaştırır
+
+✅ Özellikleri
+Type-safe → Yanlış tipte veri girilirse hata verir
+Parsing → JSON gibi yapıları kolayca Python nesnelerine çevirir
+Validation → Veri doğrulama kuralları koyabilirsin
+Nested model → Model içinde model kullanabilirsin
+Optional ve Default değer desteği
+
+
+
+
+
+
